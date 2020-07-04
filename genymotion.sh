@@ -15,4 +15,4 @@ adb devices
 pytest testCaseGenyMotion.py
 
 # konczymy 
-gmsaas instances stop 8f373fa1-97fa-4652-84c8-a006459d50a0  
+gmsaas instances stop 8f373fa1-97fa-4652-84c8-a006459d50a0 device_SamGa8 
