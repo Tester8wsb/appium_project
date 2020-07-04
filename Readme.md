@@ -15,5 +15,6 @@
 
 `
 - TestCase1: sprawdzanie czy pojawiła się notyfikacja
-- TestCase2:  testowanie WIFI w aplikacji ApiDemos:
+- TestCase2:  testowanie WIFI w aplikacji ApiDemos
 `
+
