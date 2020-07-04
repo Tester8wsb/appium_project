@@ -14,5 +14,5 @@
 ### Test Cases
 
 
-- TestCase1: sprawdzanie czy pojawiła się notyfikacja
-- TestCase2:  testowanie WIFI w aplikacji ApiDemos
+- test_case1.py: sprawdzanie czy pojawiła się notyfikacja
+- test_case2.py:  testowanie WIFI w aplikacji ApiDemos
